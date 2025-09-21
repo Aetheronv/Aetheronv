@@ -2,4 +2,4 @@
 
 💻 Brincando com Linux, scripts e automações.
 
-Aqui no meu GitHub você encontra alguns projetos e customizações que uso no canal.
+Aqui no meu GitHub você encontra alguns projetos e customizações.
