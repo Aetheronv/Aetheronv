@@ -1,4 +1,4 @@
-<h3> &nbsp; Aetheron Channel</h3>
+<h3> Aetheron Channel</h3>
 
 💻 Brincando com Linux, scripts e automações.
 
